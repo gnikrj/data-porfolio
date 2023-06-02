@@ -1,6 +1,4 @@
-# data-resume 
-
-# Jeff King
+# Resume for Jeff King
 
 ## Contact Information
 - Email: jeffrey.r.king@gmail.com
